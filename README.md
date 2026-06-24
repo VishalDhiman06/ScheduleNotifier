@@ -37,11 +37,11 @@ A modern Android application built using **Kotlin** and **Jetpack Compose** that
 
 <p align="center">
 
-<img src="screenshots/schedule1.png" width="260"/>
+<img src="schedule1.png" width="260"/>
 
    
 
-<img src="screenshots/schedule2.png" width="260"/>
+<img src="schedule2.png" width="260"/>
 
 </p>
 
