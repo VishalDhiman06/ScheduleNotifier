@@ -36,13 +36,9 @@ A modern Android application built using **Kotlin** and **Jetpack Compose** that
 # 📱 Screenshots
 
 <p align="center">
-
-<img src="schedule1.png" width="260"/>
-
-   
-
-<img src="schedule2.png" width="260"/>
-
+  <img src="schedule1.png" width="250" alt="Registration Form"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="schedule2.png" width="250" alt="Registration Success"/>
 </p>
 
 ---
